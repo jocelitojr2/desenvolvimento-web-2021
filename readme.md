@@ -63,7 +63,7 @@ Integrar as principais tecnologias Web através de projetos reais. Tudo na prát
 - Projeto Chalé Hotel (Página publicitária) 26/10/2021 :heavy_check_mark:
 
 ### HTML5 e CSS3 - Recursos especiais
-- Projeto Museu Nacional
+- Projeto Museu Nacional 03/11/2021 :heavy_check_mark:
 
 ### Bootstrap 4 & Design responsivo
 - Projeto Finans
